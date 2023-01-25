@@ -1,2 +1,2 @@
-# Intro_To_Java_Programming
-INTRODUCTION TO JAVA PROGRAMMING 12TH EDITION Exercise Solutions
+# introduction_to_java_programming
+Introduction To Java Programming 12th Edition Exercise Solutions
