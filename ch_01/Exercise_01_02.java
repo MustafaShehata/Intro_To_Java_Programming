@@ -1,4 +1,4 @@
-package Ch_01;
+package ch_01;
 
 // (Display five messages) Write a program that displays Welcome to Java five times.
 

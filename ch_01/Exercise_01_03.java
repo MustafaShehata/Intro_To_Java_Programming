@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 /*(Display a pattern) Write a program that displays the following pattern:
         J    A   V     V  A

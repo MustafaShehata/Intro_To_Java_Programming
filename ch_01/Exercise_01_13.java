@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
       /*
 (Algebra: solve 2 * 2 linear equations) You can use Cramer’s rule to solve the following
 2 * 2 system of linear equation:

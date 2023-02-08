@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 /*
 (Summation of a series) Write a program that displays the result of

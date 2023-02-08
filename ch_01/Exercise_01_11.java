@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 /**
  * (Population projection)

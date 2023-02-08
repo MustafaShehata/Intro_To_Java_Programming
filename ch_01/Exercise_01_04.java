@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 /*
 1.4 (Print a table) Write a program that displays the following table:

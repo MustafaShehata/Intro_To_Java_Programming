@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 /*
 (Average speed in miles) Assume that a runner runs 14 kilometers in 45 minutes

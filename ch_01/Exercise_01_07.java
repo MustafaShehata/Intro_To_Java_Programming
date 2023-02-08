@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 // (Approximate pi) pi can be computed using the following formula:
 // pi = 4 * (1 - (1/3) + (1/5) - (1/7) + (1/9) - (1/11))

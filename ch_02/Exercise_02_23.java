@@ -23,7 +23,7 @@ public class Exercise_02_23 {
         double milesPerGallon = input.nextDouble();
         
         // Prompt the user to enter the Price per gallon
-        System.out.print("Enter miles per gallon: ");
+        System.out.print("Enter price per gallon: ");
         double pricePerGallon = input.nextDouble();
         
         // Compute the cost of driving

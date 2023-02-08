@@ -1,5 +1,5 @@
 
-package Ch_01;
+package ch_01;
 
 /*(Compute expressions) Write a program that displays the result of
 
